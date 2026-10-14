@@ -6,31 +6,20 @@
 
 <p align="center">
   <a href="https://github.com/aminuddinihsan20">
-    <img src="https://img.shields.io/badge/GitHub-aminuddinihsan20-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-aminuddinihsan20-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:aminuddin.ihsan47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aminuddin.ihsan47@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/yourname">
-    <img src="https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Email-aminuddin.ihsan47@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
 > “Code is not just about solving problems — it’s about creating impact.”
 
 ## About Me
-Saya adalah seorang developer yang tertarik pada dunia teknologi, pemrograman, dan pengembangan solusi digital.  
-Saya suka belajar hal baru, membangun proyek yang bermanfaat, dan terus berkembang di bidang software engineering.
+Saya adalah developer yang tertarik pada dunia teknologi, pemrograman, dan pengembangan solusi digital. Saya suka belajar hal baru, membangun proyek yang bermanfaat, dan terus berkembang di bidang software engineering.
 
-## Interests
-- Web Development
-- Backend Development
-- API & System Design
-- Database
-- Problem Solving
-- Learning new technologies
+## Languages & Tools
 
-## Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,13 +34,25 @@ Saya suka belajar hal baru, membangun proyek yang bermanfaat, dan terus berkemba
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+## Skill Level
+
+- JavaScript ██████████ 90%
+- TypeScript █████████ 80%
+- Python ████████ 70%
+- HTML/CSS █████████ 85%
+- Node.js █████████ 80%
+- React █████████ 80%
+- Next.js ████████ 70%
+- SQL / MySQL ████████ 70%
+
 ## Current Focus
 - Meningkatkan kemampuan dalam pengembangan aplikasi web
 - Belajar dan membangun solusi yang lebih efisien
 - Menyelesaikan masalah dengan pendekatan yang clean dan scalable
 - Terus menambah pengalaman melalui project dan learning by doing
 
-## GitHub Stats
+## GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aminuddinihsan20&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -59,6 +60,23 @@ Saya suka belajar hal baru, membangun proyek yang bermanfaat, dan terus berkemba
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminuddinihsan20&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminuddinihsan20&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aminuddinihsan20&color=brightgreen" alt="Profile Views" />
+</p>
+
+## Explore My Repositories
+
+- JavaScript: https://github.com/search?q=user:aminuddinihsan20+language:JavaScript&type=repositories
+- TypeScript: https://github.com/search?q=user:aminuddinihsan20+language:TypeScript&type=repositories
+- Python: https://github.com/search?q=user:aminuddinihsan20+language:Python&type=repositories
+- HTML: https://github.com/search?q=user:aminuddinihsan20+language:HTML&type=repositories
+- CSS: https://github.com/search?q=user:aminuddinihsan20+language:CSS&type=repositories
+- SQL: https://github.com/search?q=user:aminuddinihsan20+language:SQL&type=repositories
 
 ## Let's Connect
 Saya selalu terbuka untuk:
@@ -69,8 +87,7 @@ Saya selalu terbuka untuk:
 
 Jangan ragu untuk menghubungi saya melalui:
 - Email: aminuddin.ihsan47@gmail.com
-- LinkedIn: linkedin.com/in/yourname
-- GitHub: github.com/aminuddinihsan20
+- GitHub: https://github.com/aminuddinihsan20
 
 ---
 
