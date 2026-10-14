@@ -34,17 +34,6 @@ Saya adalah developer yang tertarik pada dunia teknologi, pemrograman, dan penge
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## Skill Level
-
-- JavaScript ██████████ 90%
-- TypeScript █████████ 80%
-- Python ████████ 70%
-- HTML/CSS █████████ 85%
-- Node.js █████████ 80%
-- React █████████ 80%
-- Next.js ████████ 70%
-- SQL / MySQL ████████ 70%
-
 ## Current Focus
 - Meningkatkan kemampuan dalam pengembangan aplikasi web
 - Belajar dan membangun solusi yang lebih efisien
